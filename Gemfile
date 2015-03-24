@@ -1,0 +1,5 @@
+gem 'capybara'
+gem 'cucumber'
+gem 'selenium-webdriver'
+gem 'cucumber-rails'
+gem 'rspec-expectations'
